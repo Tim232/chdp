@@ -1,0 +1,16 @@
+{
+    "token": "Your Token",
+    "prefix": "Your Prefix (Default to '')",
+    "blacklist": [
+    ],
+    "botdev": [
+    ],
+    "handler": {
+        "command_dir": "Command Folder (Default to 'commands')",
+        "sub_dir": (true, false) If to use sub_dir (Default to True),
+        "ignore_folder": [
+         ],
+        "ignore_file": [
+        ]
+    }
+}
