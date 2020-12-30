@@ -3,6 +3,8 @@ Command Handler for Discord.Py
 
 ⚠ 해당 프로젝트는  AGPL-3.0 License 입니다 ⚠
 
+원작자 kiki; 모듈 삭제한 관계로 재업로드
+
 
 ## Download
 ```shell
